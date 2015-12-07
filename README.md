@@ -7,3 +7,7 @@ Profesores: Dr. Lukas Nellen y Dra. Myriam Mondragón.
 **Favio Vázquez**
 
 Correo: favio.vazquezp@gmail.com
+
+**Instituto de Ciencias Nucleares - UNAM.**
+
+![ICN-UNAM](http://sigi.nucleares.unam.mx/sgiicn/images/icn_logo_small.png)
